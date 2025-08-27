@@ -27,3 +27,5 @@ Supporting clinical decision-making with visual insights
 Excel / Pivot Charts for data visualization
 
 Interactive slicers for filtering by medical condition
+
+Dataset sourced by Kaggle- https://www.kaggle.com/datasets/prasad22/healthcare-dataset
